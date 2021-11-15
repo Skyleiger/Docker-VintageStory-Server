@@ -1,5 +1,8 @@
 # Docker-VintageStory-Server
 
+**NOTE**: This repository is deprecated and not longer maintained.
+
+
 A vintagestory server docker image.
 
 ## Table of Contents
